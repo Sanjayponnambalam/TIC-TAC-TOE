@@ -1,0 +1,11 @@
+-----------------------------------------------The gameplay will be as follows-----------------------------------------------
+
+• The user needs to type the input whether he wants to be “X” or “O”.
+• If he gives a wrong input the control must ask the user for correct input again with an invalid input message.
+• First, one user will place their sign in one of the available empty boxes.
+• If the user enters an invalid input, it’ll go again to the input statement.
+• If the user chooses a spot which is already taken by the user itself or by the opponent player(computer) 
+• Next, the second user will place their sign in one of the available empty boxes.
+• The goal of the players is to place their respective signs completely row-wise or column-wise, or diagonally.
+• The game goes on until a player wins the game or it ended up in a draw by filling all boxes without a winning match.
+• There are a total of 8 ways to arrange the same sign and win the game.
